@@ -1,0 +1,5 @@
+A = 0
+C = 9
+R = 9
+T = 0
+finished in 17939359 microseconds

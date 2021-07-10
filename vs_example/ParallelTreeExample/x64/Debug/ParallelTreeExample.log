@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\pc\OneDrive - Южный Федеральный Университет\Рабочий стол\ParallelTreeTemplate-master\vs_example\ParallelTreeExample\main.cpp(29,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ParallelTreeExample.vcxproj -> C:\Users\pc\OneDrive - Южный Федеральный Университет\Рабочий стол\ParallelTreeTemplate-master\vs_example\x64\Debug\ParallelTreeExample.exe
+  Copy DLLs
+  Скопировано файлов: 0.
